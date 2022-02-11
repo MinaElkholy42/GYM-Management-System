@@ -9,3 +9,4 @@ The system is responsible for all trainees data like.
 Also, the system can export data in excel sheets, view it in reports in the system, and import the data for the backup.
 All data are visible to the manager with the password only. 
 The system provides options for changing the username and password with strong authentication.
+
