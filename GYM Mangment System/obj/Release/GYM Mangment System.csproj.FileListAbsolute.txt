@@ -1,0 +1,35 @@
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM_DataBase.mdf
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM_DataBase_log.ldf
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM Mangment System.exe.config
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM Mangment System.application
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM Mangment System.exe
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\GYM Mangment System.pdb
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\FontAwesome.Sharp.dll
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.csprojAssemblyReference.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.AccountSetting_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Benefits_From.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Controls_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.DeleteCustomer_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Expenses_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Forget_Password.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Form1.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.InsertCustomer_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Login_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.ModiftyMoney_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Properties.Resources.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.ReprotCustomers_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Revenue_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.SearchCustomer_From.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.Sign_Up.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.MemberShipRenewal_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM_Mangment_System.UpdateInformation_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.csproj.GenerateResource.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.csproj.CoreCompileInputs.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.application
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.csproj.CopyComplete
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.exe
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Release\GYM Mangment System.pdb

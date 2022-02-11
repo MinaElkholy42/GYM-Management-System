@@ -1,0 +1,7 @@
+Name
+user_N
+Pass
+authuntication_number
+
+
+Managers

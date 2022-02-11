@@ -1,0 +1,293 @@
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM Mangment System.exe.config
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM Mangment System.exe
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM Mangment System.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Form1.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Properties.Resources.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.GenerateResource.cache
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CoreCompileInputs.cache
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.exe
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Login_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CopyComplete
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.csprojAssemblyReference.cache
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Controls_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Sign_Up.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Forget_Password.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.InsertCustomer_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.DeleteCustomer_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReprotCustomers_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchCustomer_From.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.AccountSetting_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.MemberShipRenewal_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Revenue_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Expenses_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.Benefits_From.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.UpdateInformation_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM_DataBase.mdf
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM_DataBase_log.ldf
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM Mangment System.exe.manifest
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\bin\Debug\GYM Mangment System.application
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.exe.manifest
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM Mangment System.application
+C:\Users\Prince Of Persia\Desktop\GYM Mangment System\GYM Mangment System\obj\Debug\GYM_Mangment_System.ModiftyMoney_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM_DataBase.mdf
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM_DataBase_log.ldf
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM Mangment System.exe.config
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM Mangment System.application
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM Mangment System.exe
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\GYM Mangment System.pdb
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\FontAwesome.Sharp.dll
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.csprojAssemblyReference.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.AccountSetting_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Benefits_From.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Controls_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.DeleteCustomer_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Expenses_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Forget_Password.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Form1.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.InsertCustomer_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Login_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.ModiftyMoney_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Properties.Resources.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReprotCustomers_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Revenue_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchCustomer_From.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.Sign_Up.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.MemberShipRenewal_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM_Mangment_System.UpdateInformation_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.GenerateResource.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CoreCompileInputs.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.application
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CopyComplete
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.exe
+E:\Corses\CV Projects\Projects\C#\GYM Application\Code Forms\GYM Mangment System\obj\Debug\GYM Mangment System.pdb
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM_DataBase.mdf
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM_DataBase_log.ldf
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.config
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.application
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.pdb
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\FontAwesome.Sharp.dll
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csprojAssemblyReference.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.AccountSetting_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Benefits_From.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Controls_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.DeleteCustomer_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Expenses_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Forget_Password.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Form1.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.InsertCustomer_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Login_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ModiftyMoney_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Properties.Resources.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReprotCustomers_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Revenue_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchCustomer_From.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Sign_Up.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.MemberShipRenewal_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.UpdateInformation_Form.resources
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.GenerateResource.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CoreCompileInputs.cache
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.application
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CopyComplete
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe
+E:\Corses\CV Projects\Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csprojAssemblyReference.cache
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\Interop.WMPLib.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.ResolveComReference.cache
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Alert_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ConfirmAccount_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Loading2_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Loading_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.LogIn_Form2.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.NewControls_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Properties.Resources.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Remember_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SignUp_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.temp_form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.GenerateResource.cache
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CoreCompileInputs.cache
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.config
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.manifest
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.application
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\Interop.WMPLib.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe.manifest
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.application
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CopyComplete
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchOptions_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeOptions_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetOptions_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SettingsOptions_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReportTrainees_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchIDCard_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchPhoneNumber_Formcs.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SetReportsWord_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.PasswordChange_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReportsWordChange_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.UserNameChange_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeInsert_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeDelete_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeRenewal_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeUpdate_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetAddExpenses_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetAddRevenues_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetExpensesReport_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetFullReport_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetModifyBudget_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.EnterReprotWord_Form.resources
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\System.IO.Packaging.dll
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.xml
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\ExcelNumberFormat.xml
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.config
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.application
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.pdb
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ExcelNumberFormat.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\FontAwesome.Sharp.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\System.IO.Packaging.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.pdb
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.xml
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ExcelNumberFormat.xml
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Interop.WMPLib.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\AxInterop.WMPLib.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csprojAssemblyReference.cache
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\Interop.WMPLib.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\AxInterop.WMPLib.dll
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.ResolveComReference.cache
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Alert_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetAddExpenses_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetAddRevenues_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetExpensesReport_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetFullReport_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetModifyBudget_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetOptions_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ConfirmAccount_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.EnterReprotWord_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.PasswordChange_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReportTrainees_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Loading2_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Loading_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.LogIn_Form2.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.NewControls_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Properties.Resources.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Remember_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchIDCard_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchOptions_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchPhoneNumber_Formcs.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SetReportsWord_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SettingsOptions_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SignUp_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.temp_form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeDelete_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeInsert_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeOptions_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeRenewal_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeUpdate_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReportsWordChange_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.UserNameChange_Form.resources
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.GenerateResource.cache
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CoreCompileInputs.cache
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe.manifest
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.application
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CopyComplete
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.pdb
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\LionGYM_DataBase.mdf
+C:\Users\Prince Of Persia\Desktop\GYM Application\GYM Mangment System\bin\Debug\LionGYM_DataBase_log.ldf
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\LionGYM_DataBase.mdf
+E:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\LionGYM_DataBase_log.ldf
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.pdb
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\LionGYM_DataBase.mdf
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\LionGYM_DataBase_log.ldf
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.config
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe.manifest
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.application
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.exe
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\GYM Mangment System.pdb
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ExcelNumberFormat.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\FontAwesome.Sharp.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\System.IO.Packaging.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.pdb
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ClosedXML.xml
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\ExcelNumberFormat.xml
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\Interop.WMPLib.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\bin\Debug\AxInterop.WMPLib.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\Interop.WMPLib.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\AxInterop.WMPLib.dll
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.ResolveComReference.cache
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Alert_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetAddExpenses_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetAddRevenues_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetExpensesReport_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetFullReport_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetModifyBudget_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.BudgetOptions_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ConfirmAccount_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.EnterReprotWord_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.PasswordChange_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReportTrainees_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Loading2_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Loading_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.LogIn_Form2.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.NewControls_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Properties.Resources.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.Remember_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchIDCard_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchOptions_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SearchPhoneNumber_Formcs.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SetReportsWord_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SettingsOptions_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.SignUp_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.temp_form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeDelete_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeInsert_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeOptions_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeRenewal_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.TraineeUpdate_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.ReportsWordChange_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM_Mangment_System.UserNameChange_Form.resources
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.GenerateResource.cache
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CoreCompileInputs.cache
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.exe.manifest
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.application
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csproj.CopyComplete
+D:\Corses\CV Projects\C#\GYM Application\GYM Mangment System\obj\Debug\GYM Mangment System.csprojAssemblyReference.cache

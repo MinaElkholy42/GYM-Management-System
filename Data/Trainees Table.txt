@@ -1,0 +1,15 @@
+BarCode_ID
+Name
+Payment
+GYM
+Fittness
+Time_Of_Payment
+Date_Of_Pyament
+Date_To_Pay
+Phone_Number
+Address
+Image
+Discount
+Manager_Name
+
+Traineers

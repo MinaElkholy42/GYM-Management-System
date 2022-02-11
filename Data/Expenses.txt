@@ -1,0 +1,8 @@
+month
+year
+Expensses
+Text
+ID(Generated Automatically)
+
+
+Expenses
